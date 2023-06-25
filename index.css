@@ -1,0 +1,10 @@
+.poster {
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+body {
+    background: linear-gradient( lightblue, lightgreen);
+    min-height: 100vh;
+}
